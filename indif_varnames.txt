@@ -1,0 +1,7 @@
+ddis_scr_val_indif_point_6h
+ddis_scr_val_indif_pnt_1da
+ddis_scr_val_indif_pnt_1week
+ddis_scr_val_indif_pnt_1mth
+ddis_scr_val_indif_pnt_3mth
+ddis_scr_val_indif_pnt_1yr
+ddis_scr_val_indif_pnt_5yr
