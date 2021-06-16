@@ -1,5 +1,9 @@
 # ABCD-DRD-Prediction
 
+<p align="center">
+  <img width="400" src="https://raw.githubusercontent.com/sahahn/Parcs_Project/master/data/abcd-study-logo.png">
+</p>
+
 This page contains code for the analyses from the study "One Year Predictions of Delayed Reward Discounting in the Adolescent Brain Cognitive Development Study". 
 
 ## Repository Structure
@@ -39,3 +43,8 @@ Max M. Owens, Sage Hahn, Nicholas Allgaier, James MacKillop, Matthew Albaugh, De
 ## Contact
 
 For questions, contact Max Owens at owensmax03@gmail.com.
+
+
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/sahahn/Parcs_Project/master/data/t32_logo.png">
+</p>
