@@ -29,7 +29,6 @@ A brief description of the files provided in this repository and information on 
 - python3.6+
 - R version 3.6.1
 - brain-pred-toolbox version 1.3.4
-- Anything else?
   
 
 ## Note on Reproducibility 
