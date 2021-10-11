@@ -15,7 +15,7 @@ A brief description of the files provided in this repository and information on 
 - loading_final_site.py: Data loading and processing code that covers all the steps from loading data as downloaded to their final preprocessed BPt-style ready for ML modelling, alternative approach to participant grouping in cross-validation
 - loading_final_RR.py: Data loading and processing code for analyses conducted as part of revise and resubmit
 - calculate_drd_curve.py: Code to compute the measure of delayed reward discounting predicted in this analyses
-- run_analyses_RR.py: run ML modeling analyses using BPt, as amended for revise and resubmit
+- run_analyses_RR2.py: run ML modeling analyses using BPt, as amended for revise and resubmit
 - RR_analyses: run analyses for revise and resubmit
 - visualize_results.py: create figures and tables reported in manuscript using results of "run_analyses.py"
 -drd_brain_features.txt: list of brain features used in analyses
